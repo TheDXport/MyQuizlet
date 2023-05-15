@@ -1,0 +1,395 @@
+1 nation-state - The modern form of political society that combines centralized government with a high degree of ethnic and cultural unity
+2 matrilineal - the form of society in which family line, power, and wealth are passed primarily through the female side.
+3 confederacy - An alliance or league of nations or peoples looser than a federation.
+4 primeval - Concerning the earliest origin of things.
+5 saga - A lengthy story or poem recounting the great deeds and adventures of a people and their heroes.
+6 middlemen - In trading systems, those dealers who operate between the original buyers and the retail merchants who sell to consumers.
+7 plantation - A large-scale agricultural enterprise growing commercial crop and usually employing coerced or slave labor.
+8 ecosystem - A naturally evolved network of relations among organisms in a stable environment.
+9 demographic - Concerning the general characteristic of a given population, including such factors as numbers, age, gender, birth and death rates, and so on.
+10 conquistador - A Spanish conqueror or adventurer in the Americas
+11 capitalism - An economic system characterized by private property- generally free trade, and open and accessible markets.
+12 encomienda - The Spanish labor system in which persons were help to unpaid service under the permanent control of their masters, though not legally owned by them.
+13 mestizo - A person of mixed Native American and European ancestry.
+14 province - A medium sized subunit of territory and governmental administration within a larger nation or empire.
+15 nationalism - Fervent belief and loyalty given to the political unit of the nation-state.
+16 primogeniture - The legal principle that the oldest son inherits all family property or land.
+17 joint-stock companies - An economic arrangement by which a number of investors pool their capital for investment.
+18 charter - A legal document granted by a government to some group or agency to implement a stated purpose, and spelling out the attending rights and obligations.
+19 census - An official count of population, often also describing other information about the population.
+20 feudal - Concerning the decentralized medieval social system of personal obligations between rulers and ruled.
+21 indentured servant - A poor person obligated to a fixed term of labor.
+22 toleration - Originally, religious freedom granted by an established church to a religious minority.
+23 squatter - A frontier farmer who illegally occupied land owned by others or not yet officially opened for settlement.
+24 matriarch - A respected, usually elderly, female head of a household or extended clan.
+25 melting pot - Popular term for an ethnically diverse population that is presumed to be "melting" towards some eventual commonality.
+26 predestination - The Calvinist doctrine that God has foreordained some people to be saved and some to be damned. 
+27 elect - In Calvinist doctrine, those who have been chosen by God for salvation. 
+28 conversion - A religious turn to God, thought by Calvinists to involve an intense, identifiable person experience. 
+29 visible saints - In Calvinism, those who publicly proclaimed their experience of conversion and were expect to lead godly lives.
+30 calling - In Protestantism, the belief that saved individuals have a religious obligation to engage in worldly work. 
+31 heresy - Departure from correct or officially defined belief.
+32 seditious - Concerning resistance to or rebellion against the government.
+33 commonwealth - An organized civil government or social order. 
+34 autocratic - Absolute or dictatorial rule. 
+35 passive resistance - Nonviolent action or opposition to authority in accord with religious or moral beliefs.
+36 proprietary - Concerning exclusive legal ownership, as of colonies granted to individuals by the monarch.
+37 naturalization - The granting of citizenship to foreigners or immigrants.
+38 blue laws - Laws designed to restrict personal behavior in accord with a strict code of morality.
+39 ethnic - Concerning diverse peoples or cultures, specifically those of non-Anglo-Saxon background. 
+40 headright - The right to acquire a certain amount of land granted to the person who finances the passage of a laborer.
+41 disenfranchise - To take away the right to vote.
+42 civil war - A conflict between the citizens of inhabitants of the same country.
+43 tidewater - The territory adjoining water affected by tides-this is, near the seacoast or coastal rivers.
+44 middle passage - That portion of a slave ship's journey in which slaves were carried from Africa to the Americas.
+45 fertility - The ability to mate and produce abundant young.
+46 menial - Fit for servants; humble or low.
+47 militia - An armed force of citizens called out only in emergencies.
+48 hierarchy - a social group arranged in ranks or classes.
+49 corporation - A group or institution granted legal rights to carry on certain specified activities.
+50 jeremiad - A sermon or prophecy warning of doom and calling for repentance.
+51 lynching - The illegal killing of an accused person by mob action without due process.
+52 hinterland - Inland region back from a port, river, or the seacoast.
+53 social structure - The basic pattern of the distribution of status and wealth in a society.
+54 blue blood - Of noble or upper-class descent.
+55 sect - A small religious group that has broken away from some larger mainstream church. 
+56 agitators - Those who seek to excite or persuade the public on some issue. 
+57 stratification - The visible arrangement of society into a hierarchical pattern, with distinct social groups layered one on top of the other. 
+58 mobility - The capacity to pass readily from one social or economic condition to another. 
+59 elite - The smaller group at the top of a society or institution, usually possessing wealth, power, or special privileges.
+60 almshouse - A home for the poor, supported by charity or public funds. 
+61 gentry - Landowners of substantial property, social standing, and leisure, but not titled nobility. 
+62 tenant farmer - One who rents rather than owns land. 
+63 veto - The executive power to prevent acts passed by the legislature from becoming law. 
+64 apprentice - A person who works under a master to acquire instruction in a trade or profession. 
+65 speculation - Buying land or anything else in the hope of profiting by an expected rise in price. 
+66 revival - In religion, a movement of renewed enthusiasm and commitment, often accompanied by special meetings or evangelical activity. 
+67 secular - Belonging to the worldly sphere rather than to the specifically sacred or churchly. 
+68 domestic - Concerning the internal affairs of a country.
+69 minister - In politics, a person appointed by the head of the state to take charge of some department agency of government.
+70 magistrate - a civil official charged with upholding the law, often exercising both judicial and executive power.
+71 peasant - A farmer of agricultural laborer, sometime legally tied to the land.
+72 coureurs des bois - French-Canadian fur trappers; literally, "runners of the woods.
+73 voyageurs - French-Canadian fur traders and adventurers.
+74 ecological - Concerning the relations between the biological organisms of their environment.
+75 mutinous - Concerning revolt by subordinate soldiers or seamen against their commanding officers.
+76 strategic - Concerning the placement and planned movement of large-scale military forces so as to gain advantage, usually prior to actual engagement with the enemy.
+77 guerilla warfare - Unconventional combat wagged by smaller military units using hit-and-run tactics.
+78 buffer - "A territory between two hostile states, designed to soften an attack from one or the other side.
+79 siege - A military operation surrounding and attacking a fortified place, often over a sustained period.
+80 Regulars - Trained professional soldiers, as distinct from militia or conscripts.
+81 commissions - An official certification granting a commanding rank in the armed forces.
+82 insurrection - Rebellion against political authority.
+83 mercantilism - The economic theory that all parts of an economy should be coordinated for the good of the whole state; hence, that colonial economics should be subordinated for the benefit of an empire.
+84 depreciate - To decrease in value, as in the decline of the purchasing power of money.
+85 protective tariffs - Taxes places on imported goods, often to raise prices and thus protect domestic producers.
+86 mortgage - To pledge property to a creditor as security for a loan or debt.
+87 admiralty courts - In British law, special administrative courts designed to handle maritime cases without a jury.
+88 virtual representation - The political theory that a class of persons is represented in a lawmaking body without direct vote.
+89 non-importation agreement - Pledges to boycott, or decline to purchase, certain goods from abroad.
+90 mulatto - A person of mixed African and European ancestry.
+91 duty - A customs tax on the export or import of goods. 
+92 propaganda - A systematic program or particular materials designed to spread certain ideas; sometimes but not always the term implies the use of manipulative or deceptive means.
+93 boycott - An organized refusal to deal with some person, organization, or product.
+94 inflation - An increase in the supply of currency relative to the goods available, leading to a decline in the purchasing power of money.
+95 desert - To leave official or military service without permission. 
+96 mercenary - A professional soldier who serves in a foreign army for pay.
+97 indictment - A formal written accusation charging someone with a crime.
+98 dictatorship - A form of government characterized by absolute state power and the unlimited authority of the ruler.
+99 neutral - A nation or person not taking sides in a war.
+100 civilian - A citizen not in military service.
+101 confiscate - To seize private property for public use, often as a penalty.
+102 envoy - A messenger or agent sent by a government on official business.
+103 rabble - A mass of disorderly and crude common people.
+104 isolationist - Concerning the belief that a country should take little or no part in foreign affairs, especially through alliances or wars.
+105 hereditary - Passed down from generation to generation.
+106 blockade - The isolation of a place by hostile ships or troops.
+107 privateer - A private vessel temporarily authorized to capture or plunder enemy ships in wartime.
+108 graft - Taking advantage of one’s official position to gain money or property by illegal means.
+109 disestablish - To separate an official state church from its connection with the government.
+110 emancipation - setting free from servitude or slavery
+111 chattel - an article of personal or movable property; hence a term applied to slaves, since they were considered the personal property of their owners.
+112 abolitionist - favoring the immediate end of slavery
+113 ratification - The confirmation or validation of an act (such as the constitution) by authoritative approval.
+114 bill of rights - A list of fundamental freedoms assumed to be central to society.
+115 aliens - Foreigners; also, persons resident in but not citizens of a country.
+116 township - in America, a surveyed territory six miles square; the term also refers to a unit of social government, smaller than a country that is often based on these survey units.
+117 territory - In American, government an organized political entity not yet enjoying full equal terms of a state.
+118 annex - To make a smaller territory or political unit part of a larger one.
+119 requisition - a demand for something issued on the basis of public authority.
+120 foreclosure - depriving someone of the right to redeem mortgaged property because the legal payments on the loan have not been kept up.
+121 quorum - the minimum number of persons who must be present in a group before it can conduct valid business.
+122 anarchy - the theory that formal government is unnecessary and wrong in principle; the term is also used generally for lawlessness or anti-governmental disorder.
+123 bicameral - referring to a legislative body with two houses
+124 public debt - The debt of a government or nation to individual creditors, also called the national debt.
+125 cabinet - The body of official advisers to the head of a government; in the United States, it consists of the heads of the major executive departments.
+126 circuit court - A court that hears cases in several designated locations rather than a single place.
+127 fiscal - Concerning public finances-expenditures and revenues.
+128 assumption - The appropriation or taking on of obligations not originally one’s own.
+129 excise - A tax on the manufacture, sale, or consumption of certain products.
+130 stock - The shares of capital ownership gained from investing in a corporate enterprise; the term also refers to the certificates representing such shares.
+131 medium of exchange - Any item, paper or otherwise, used as money. 
+132 despotism - Arbitrary or tyrannical rule.
+133 impress - To force people or property into public service without choice.
+134 assimilation - The merging of diverse cultures or peoples into one.
+135 witch-hunt - An investigation carried on with much publicity, supposedly to uncover dangerous activity but actually intended to weaken the political opposition.
+136 compact - An agreement or covenant between states to perform some legal act.
+137 nullification - In American politics, the assertion that a state may legally invalidate a federal act deemed inconsistent with its rights or sovereignty.
+138 patronage - To take care of your political allies.
+139 writ - A formal legal document ordering or prohibiting some act.
+140 tribunal - A court of justice of the place where it renders judgment.
+141 impeachment - charges against a political official with the intent of removal.
+142 pacifist - Characterized by principle opposition to all war and belief in non interventionist.
+143 frigate - A fast, heavily armed warship, usually with two decks and high rigging.
+144 cede - To yield or grant something, often upon request or under pressure. (Anything ceded is a cession.)
+145 precedent - In law and government, a decision or action that establishes a sanctioned rule for determining similar cases in the future.
+146 sectionalist - Person devoted to the cause of a particular section of the country, as opposed to the nation as a whole.
+147 conscription - Compulsory enrollment of men and women into the armed forces.
+148 broadside - The simultaneous firing of all guns on one side of a ship.
+149 embargo - A government order prohibiting commerce in or out of a port.
+150 hodgepodge - Composed of a mixed mass of diverse elements or groups.
+151 mediation - A friendly intervention, usually by consent, to settle differences between groups or nations.
+152 armistice - A temporary stopping of warfare by mutual agreement, usually in preparation for an actual peace negotiation between the parties.
+153 reaction (reactionary) - In politics, extreme conservatism, looking to restore the conditions of an earlier time.
+154 protection (protective) - In economics, the policy of stimulating or preserving domestic producers by placing barriers against imported goods, often through high tariffs.
+155 raw materials - Products in their natural, unmanufactured state.
+156 internal improvements - The basic public works, such as roads and canals, that create the structure for economic development.
+157 intrastate - Existing wholly within a state of the United States.
+158 depression - In economics, a severe and often prolonged period of declining economic activity, rising unemployment, and falling wages and prices.
+159 boom - In economics, period of sudden, spectacular expansion of business activity or prices.
+160 wildcat bank - An uncontrolled, speculative bank that issues notes without sufficient capital to back them.
+161 peculiar institution - The institution of American black slavery.
+162 demagogue - Concerning a leader who stirs up the common people by appeals to emotion and prejudice, often for selfish or irrational ends.
+163 contract - In law, an agreement in which each of two or more parties agrees to perform some act in exchange for what the other party promises to do.
+164 constituents - The body of voters or supporters in a district, regarded as a group.
+165 divine right - The belief that government or rulers are directly established by God.
+166 hard money - Gold and Silver coins, as distinguished from paper money.
+167 deference - The yielding of opinion to the judgment of someone else.
+168 subversive - Tending to corrupt, overthrow, or destroy something established.
+169 clique - A small, exclusive, and snobbish circle of people.
+170 puritanical - Extremely or excessively strict in matters of morals or religion.
+171 usurpation - The act of seizing, occupying, or enjoying the place, power, or functions of someone without right.
+172 political plums - Choice, desirable offices of favors.
+173 mudslinging - Malicious, unscrupulous attacks against an opponent.
+174 bare-knuckle - Hard, unrestrained, brutal.
+175 machine - A political organization, often controlled through patronage or spoils.
+176 spoils - Public offices given as a reward for political support.
+177 henchmen - Political supporters or followers.
+178 incumbent - The person currently holding an office.
+179 impost - A tax, particularly a tariff or duty on imported goods.
+180 appeasement - The policy of giving in to demands of a hostile of dangerous power in hoped of avoiding conflict.
+181 plutocratic - Concerning an extremely wealthy ruling class.
+182 prejudice - Unreasonable suspicion, bias, or hatred directed at members of a group.
+183 ritual - A set form or system of ceremonies, often but not necessarily religious.
+184 evangelical - Concerning religious belief, commonly Protestant, that emphasizes personal salvation, individual and voluntary religious commitment, and the authority of Scripture.
+185 anathema - Something or someone cursed or expelled from a group.
+186 platform - A statement of the principles or positions of a political party.
+187 mandate - Something authoritatively commanded or required.
+188 denominations - In American religion, the major branches of Christianity, organized into separate national churches structures, e.g., Presbyterians, Baptists, Disciples of Christ.
+189 trammel - Something that confines, restrains, or shackles.
+190 prolific - Producing abundant young.
+191 temperance - Moderation, or sometimes total abstinence, as regards drinking liquor.
+192 crusader - A person who pursues a cause, religious or otherwise, with extreme enthusiasm and earnestness.
+193 favorite sons - In American politics, presidential candidates who are nominated by their own state, primarily out of local loyalty.
+194 caste - An exclusive or rigid social distinction based on birth, wealth, occupation, and so forth.
+195 nativist - One who advocates favoring native-born citizens over aliens or immigrants. 
+196 factory - An establishment for the manufacturing of goods, including buildings and substantial machinery.
+197 trademark - A distinguishing symbol or word used by a manufacturer on its goods, usually registered by law to protect against imitators.
+198 distaff - The staff from which thread is drawn in spinning; hence, a symbol of spinning or, sometimes, of work usually done by women or considered appropriate for them.
+199 liability - Legal responsibility for loss or damage.
+200 incorporation - The formation of individuals into a legally organized group.
+201 labor union - An organization of workers—usually wage-earning workers—to promote the interests and welfare of its members, often by collective bargaining with employers.
+202 strike - An organized work stoppage by employees in order to obtain better wages, working conditions, and so on.
+203 capitalist - An individual or group who uses private property to produce goods for profit in an open market.
+204 turnpike - A toll road.
+205 posterity - Later descendants or subsequent generations.
+206 productivity - In economics, the relative capacity to produce goods and services, measured in terms of the number of workers and machines needed to create goods in a certain length of time.
+207 transient - Referring to a person without a fixed or long-term home or job; a migrant.
+208 polygamy - The practice or condition of having two or more spouses at one time.
+209 theocracy - Literally, rule by God, the term is often applied to a state where religious leaders exercise direct or indirect political authority.
+210 utopian - Referring to any place or plan that aims at an ideal social order.
+211 zealot - one who is carried away by a cause to an extreme or excessive degree.
+212 communistic - Referring to the theory or practice in which the means of production are owned by the community as a whole.
+213 communitarian - Referring to the belief in or practice of the superiority of community life or values over individual life, but not necessarily the common ownership of material goods.
+214 free love - The principle or practice of sexual relations unrestricted by law, marriage, or religious constraints.
+215 eugenic - Concerning the improvement of the human species through selective breeding or genetic control.
+216 monogamy - The belief in or practice of marrying only one spouse at a time.
+217 classical - Concerning the culture of ancient Greece or Rome, or any artistic or cultural values presumed to be based on those enduring principles.
+218 mystical - Referring to the belief in the direct apprehension of God or divine mystery, without reliance on reason or human comprehension.
+219 nonconformist - One who refuses to follow established or conventional ideas or habits.
+220 nonviolence - The principle of resolving or engaging in conflict without resort to physical force.
+221 providential - Under the care and direction of God or other benevolent natural or supernatural forces.
+222 oligarchy - Rule by a small elite.
+223 medievalism - Devotion to the social values, customs, or beliefs thought to be characteristic of the European Middle Ages.
+224 commission - Fee paid to an agent in a transaction, usually as a percentage of the sale.
+225 middlemen - In commerce, those who stand between the producer and the retailer or consumer.
+226 racism - Belief in the superiority of one race over another or behavior reflecting such a belief. 
+227 fecund - Fruitful in the bearing numerous children.
+228 overseer - Someone who governs or directs the work of t another.
+229 sabotage - Intentional destruction or damage of goods, machines, or productive processes.
+230 fratricidal - Literally, concerning the killing of brothers; often applied to the killing of relatives or countrymen.
+231 incendiary - A person who willfully stirs up riot of rebellion.
+232 genteel - Excessively or pretentiously refined and polite.
+233 royalty - The share of the proceeds from work paid to an inventor, author, composer, and so on.
+234 default - To fail to pay a loan or interest due.
+235 repudiate - To refuse to accept responsibility for paying a bill or debt.
+236 protectorate - The relation of a strong nation to a weak one under its control and protection.
+237 colossus - Anything of extraordinary size and power.
+238 resolution - In government, a formal statement of policy or judgment by a legislature, but requiring no statute.
+239 intrigue - A plot or scheme formed by secret, underhanded means.
+240 barter - To exchange goods or services without money.
+241 deadlock - To completely block or stop action as a consequence of the mutual pressure of equal and opposed forces.
+242 dark horse - In politics, a candidate with little apparent support who unexpectedly wins a  nomination or election.
+243 predecessor - The person who held an office before its present occupant.
+244 quibble - A petty evasion of a disputed point by sharp argument or legal maneuver.
+245 no-man's-land - A territory to which neither of two disputing parties has clear claim and where they may meet as combatants.
+246 indemnity - A repayment for loss or damage inflicted.
+247 self-determination - In politics, the right of a people to assert its own national identity or form of government without outside influence. 
+248 homestead - A family home or farm with buildings and land sufficient for survival. 
+249 vigilante - Concerning groups that claim to punish crime and maintain order without legal authority to do so. 
+250 sanctuary - A place of refuge or protection, where people are safe from punishment by the law. 
+251 fugitive - A person who flees from danger or prosecution. 
+252 topography - The precise surface features and details of a place – for example, rivers, bridges, hills – in relation to one another. 
+253 mundane - Belonging to this world, as opposed to the spiritual world. 
+254 statecraft - The art of government leadership. 
+255 isthmian - Concerning a narrow strip of land connecting two larger bodies of land. 
+256 filibustering - Referring to adventurers who conduct a private war against a foreign country. 
+257 consulate - The office of a foreign official, usually not the ambassador, appointed to look after his or her country’s interests or citizens in a particular place. 
+258 cloak-and-dagger - Concerning the activities of spies or undercover agents, especially involving elaborate deceptions. 
+259 leak - To accidentally or deliberately disclose information supposed to be kept secret. 
+260 booster - One who promotes a person or enterprise, especially in a highly enthusiastic way. 
+261 truce - A temporary suspension of warfare by agreement of the hostile parties. 
+262 mediation - The attempt to resolve a dispute through the intervention or counsel of a third
+263 party - a organized political group
+264 proclamation - An official announcement or publicly declared order.
+265 grapevine - The informal network by which information, rumors, gossip, and so on are spread.
+266 flank - The side of an army, where it is vulnerable to attack.
+267 court-martial - A military court or a trial held in such a court under military law.
+268 garrison - A military fortress, or the troops stationed at such a fortress, usually designed for defense or occupation of a territory.
+269 morale - The condition of courage, confidence, and willingness to endure hardship.
+270 riffraff - The segment of society regarded as worthless or undisciplined.
+271 pillaging - Plundering, looting, destroying property by violence.
+272 running-mate - In politics, the candidate for the lesser of two offices when they are decided together-for example, the U.S. vice presidency.
+273 ringleader - A person who leads others, especially in unlawful acts or opposition to authority.
+274 civil disabilities - Legally imposed restrictions of a person’s civil rights or liberties.
+275 posthumously - After death.
+276 mutual aid societies - Nonprofit organizations designed to provide their members with financial and social benefits, often including medical aid, life insurance, funeral costs, and disaster relief.
+277 confiscation [confiscated] - Legal government seizure of private property without compensation.
+278 dogmatic - Holding to strong ideas or opinions without evidence or proof.
+279 chain gang - A group of prisoners chained together while working.
+280 sharecrop - An agricultural system in which a tenant receives land, tools, and seed on credit and pledges in return a share of the crop to the creditor.
+281 peonage - A system in which debtors are held in servitude, to labor for their creditors.
+282 scalawag - A white Southerner who supported Republican Reconstruction after the Civil War.
+283 coalition - a temporary alliance of political factions or partiers for some specific purpose.
+284 corner - to gain exclusive control of a commodity in order to fix its price.
+285 eccentric - deviating from the norm; peculiar, unconventional.
+286 amnesty - a general pardon for offenses or crimes against a government.
+287 hard money - scarce money with high purchase value.
+288 sound money - money adequately backed by capital assets or reserves.
+289 contraction - in finance, reducing the available supply of money, thus tending to raise interest rates and lower prices.
+290 commercial paper - Any business document having monetary or exchangeable value. 
+291 promissory note - a written pledge to pay a certain person a specified sum of money at a certain time. 
+292 enclave - A small territory surrounded by foreign or hostile territory. 
+293 gringo - Contemptuous Latin American term for North Americans. 
+294 censor - An official who examines publications, mail, literature, and so forth in order to remove or prohibit the distribution of material deemed dangerous or offensive. 
+295 Xenophobia - fear of foreigners
+296 soft money - plentiful or inflated money. 
+297 fraternal organization - a society of men drawn together for social purposes and sometimes to pursue other common goals.
+298 consensus - common or unanimous opinion.
+299 kickback - the return of a portion of the money received in a sale or contract, often secretly or illegally, in exchange for favors.
+300 stock dividends - a portion of the profits of a corporation distributed to owners of a company’s stock.
+301 pull - political influence or special advantage.
+302 laissez-faire - the doctrine of noninterference, especially by the government, in matters of economics or business.
+303 pork barrel - in American politics, government appropriations for political purposes, especially projects designed to please legislators lock constituency.
+304 pool - In business, an agreement to divide a given market in order to avoid competition.
+305 rebate - A return of a portion of the amount paid for goods or services.
+306 free enterprise - An economic system that permits unrestricted entrepreneurial business activity; capitalism.
+307 regulatory commission - In American government, any of the agencies established to control a special sphere of business or other activity; members are usually appointed by the president and confirmed by Congress.
+308 trust - A combination of corporations, usually in the same industry, in which stockholders trade their stock to a central board in exchange for trust certificates.
+309 syndicate - An association of financiers organized to carry out projects requiring very large amounts of capital.
+310 patrician - Characterized by noble or highs social standing.
+311 plutocracy - Government by the wealthy.
+312 third world - The noncommunist and non-Western nations of the world, most of them formerly under colonial rule and still economically poor and dependent.
+313 socialist - One who believes in the ownership and control of the major means of production by the whole community rather than by individuals or corporations.
+314 radical - One who believes in fundamental change in the political, economic, or social system.
+315 lockout - The refusal by an employer to allow employees to work unless they agree to his or her terms.
+316 yellow dog contract - A labor contract in which an employee must agree not to join a union as a condition of holding the job.
+317 cooperative - An organization for producing, marketing, or consuming goods in which the members share the benefits.
+318 anarchist - One who believes that formal, coercive government is wrong in principle.
+319 megalopolis - An extensive, heavily populated area, containing several dense urban centers.
+320 tenement - A multi-dwelling building, often poor or overcrowded.
+321 affluence - An abundance of wealth.
+322 despotism - Government by an absolute or tyrannical ruler.
+323 parochial - Concerning a parish or small district.
+324 sweatshop - A factory where employees are forced to work long hours under difficult conditions for meager wages.
+325 pauper - A poor person, often one who lives on tax-supported charity.
+326 convert - A person who turns from one religion or set of beliefs to another.
+327 fundamentalist - A Protestant who rejects religious modernism and adheres to a strict and literal interpretation of Christian doctrine and Scriptures.
+328 agnostic - One who believes that there can be no human knowledge of any God or gods.
+329 behavioral psychology - The branch of psychology that examines human action, often considering it more important tan mental or inward states.
+330 syndicated - In journalism, material that is sold by an organization for publication in several newspapers.
+331 tycoon - A wealthy businessperson, especially one who openly displays power and position.
+332 prohibition - Forbidding by law the manufacture, sake, or consumption of liquor.
+333 rustic - Concerning unsophisticated country ways; crude and inelegant.
+334 immunity - Freedom or exemption from some imposition
+335 medicine man - Among native Americans, a holy man or shaman who exercises spiritual powers and is considered able to cure disease.
+336 reservation - Public land designated for use by native Americans.
+337 ward - Someone considered incompetent to manage his or her own affairs and therefore placed under the legal guardianship of another person or group.
+338 probationary - Concerning a period of testing or trial, after which a decision is made based on performance.
+339 folklore - The common traditions and stories of a people.
+340 irrigation - Watering land artificially, through canals, pipes, or other means.
+341 meridian - In geography, any of the lines of longitude running north and south on the globe.
+342 contiguous - Joined together by common borders.
+343 safety valve - Anything, such as the American frontier, that allegedly serves as a necessary outlet for  built-up pressure, energy, and so on.
+344 loan shark - A person who lends money at an exorbitant or illegal rate of interest.
+345 serfdom - The feudal condition of being permanently bound to land owned by someone else.
+346 mumbo jumbo - Mysterious and unintelligible words or behavior.
+347 prophet - A person believed to speak with divine power or special gifts.
+348 citadel - A fortress occupying a commanding height.
+349 filibuster - To utilize the technique of obstructing legislation by tactics such as making long speeches and introducing irrelevant amendments. 
+350 landslide - An overwhelming majority of votes for one side in an election. 
+351 clientele - Those whom a lawyer or similar agent is engaged to represent and serve. 
+352 legal tender - Any form of money that must be accepted in payment for goods purchased or for repayment of debt. 
+353 bullion - Precious metals in their raw form, before they are coined. 
+354 reserve - In finance, the portion of money held back from circulation by a bank or treasury, which provides backing for its notes or loans. 
+355 bimetallism - The legalized concurrent use of two precious metals as currency at a fixed ratio of value. 
+356 slush fund - An unaccountable sum of money available for questionable to corrupt purposes.
+357 equilibrium - A state of balance between competing forces or interests. 
+358 lobbyist - Someone who promotes an interest or cause before a political body, often for pay. 
+359 concession - A privilege granted by a government to another government, private company, or individual.  
+360 reciprocity - An exchange of equal privileges between two governments.
+361 scorched-earth policy - The policy of burning and destroying all the property in a given area so as to deny it to an enemy.
+362 reconcentration - The policy of forcibly removing a population to confined areas in order to deny support to enemy forces.
+363 jingoist - Aggressively patriotic and warlike.
+364 atrocity - A specific act of extreme cruelty.
+365 proviso - An article or cause in a statute, treaty, or contract establishing a particular stipulation or condition affecting the whole document.
+366 archipelago - A large group of islands within a limited area.
+367 hostage - A person or thing forcibly held in order to obtain certain goals or agreements.
+368 Americanization - The process of assimilating American character, manner, ideals, culture, and so on.
+369 sphere of influence - The territory of weaker states where a powerful state exercises the dominant control.
+370 partition - In politics, the act of dividing a weaker territory or government among several more powerful states.
+371 bellicose - Disposed to fight or go to war.
+372 preparedness - The accumulation of sufficient armed forces and materiel to go to war.
+373 corollary - A secondary inference or deduction from a main proposition that is taken as established or proven.
+374 banana republic - A disparaging term for the small nations of Central America, with particular reference to their political instability and poor, single-crop economies.
+375 dictum - An authoritative edict or assertion.
+376 preemptive - The prior appropriation of land or other goods, in order to prevent their appropriation by others.
+377 progressive - In politics, one who believes in continuing progress, improvement, or reform.
+378 exposé - A disclosure or revelation considered embarrassing to those involved
+379 direct primary - In politics, the nomination of a party’s candidates for office through a special election of that party’s voters.
+380 initiative - In politics, the procedure whereby voters can, through petition, present proposed legislation directly to the electorate.
+381 referendum - The submission of a law, proposed or already in effect, to a direct vote of the electorate.
+382 recall - In politics, a procedure for removing an official from office through popular election or other means.
+383 city manager - An administrator appointed by the city council or other elected body to manage affairs, supposedly in a nonpartisan or professional way.
+384 slumlord - A landlord who owns and profits from slum properties, often by charging excessive rents or neglecting maintenance and repairs.
+385 red-light district - A section of a city where prostitution is officially or unofficially tolerated.
+386 franchise - In government, a special privilege or license granted to a company or group to perform a specific function.
+387 negligence - In law, the failure to take a reasonable care, resulting in injury to another person.
+388 reclamation - The process of bringing or restoring wasteland to productive use.
+389 collectivism - A political or social system in which individuals are subordinated to mass organization and direction.
+390 insubordination - Deliberate disobedience to proper authority.
+391 entrepreneurship - The process whereby an individual initiates a business at some risk in order to expand it and thereby earn a profit. 
+392 self-determination - In politics, the right of a people to shape its own national identity and form og government, without outside coercion of influence. 
+393 graduated income tax - A tax on income in which the taxation rates are progressively higher for those whit higher income. 
+394 levy - A forcible tax or other imposition. 
+395 inelasticity - The inability to expand or contract rapidly.
