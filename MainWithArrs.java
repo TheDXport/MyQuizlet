@@ -12,29 +12,6 @@ public class MainWithArrs {
 
         int totalScore = 0;
 
-        // Term t1 =  new Term("disenfranchise", "To take away the right to vote.");
-        // Term t2 =  new Term("civil war", "A conflict between the citizens of inhabitants of the same country.");
-        // Term t3 =  new Term("tidewater","The territory adjoining water affected by tides-this is, near the seacoast or coastal rivers.");
-        // Term t4 =  new Term("middle passage", "That portion of a slave ship's journey in which slaves were carried from Africa to the Americas.");
-        // Term t5 =  new Term("fertility", "The ability to mate and produce abundant young.");
-        // Term t6 =  new Term("menial", "Fit for servants; humble or low.");
-        // Term t7 =  new Term("militia","An armed force of citizens called out only in emergencies.");
-        // Term t8 =  new Term("hierarchy", "a social group arranged in ranks or classes.");
-        // Term t9 =  new Term("corporation", "A group or institution granted legal rights to carry on certain specified activities.");
-        // Term t10 = new Term("jeremiad", "A sermon or prophecy warning of doom and calling for repentance.");
-        // Term t11 = new Term("lynching","The illegal killing of an accused person by mob action without due process.");
-        // Term t12 = new Term("hinterland","Inland region back from a port, river, or the seacoast.");
-        // Term t13 = new Term("social structure", "The basic pattern of the distribution of status and wealth in a society.");
-        // Term t14 = new Term("blue blood", "Of noble or upper-class descent.");
-        // Term t15 = new Term("sect", "A small religious group that has broken away from some larger mainstream church");
-        // Term t16 = new Term("agitators", "Those who seek to excite or persuade the public on some issue.");
-        // Term t17 = new Term("stratification", "The visible arrangement of society into a hierarchical pattern, with distinct social groups layered one on top of the other.");
-        // Term t18 = new Term("mobility", "The capacity to pass readily from one social or economic condition to another.");
-        // Term t19 = new Term("elite", "The smaller group at the top of a society or institution, usually possessing wealth, power, or special privileges.");
-        // Term t20 = new Term("almshouse", "A home for the poor, supported by charity or public funds.");
-       
-        // Term[] termsArr = {t1,t2,t3,t4,t5,t6,t7,t8,t9,t10,t11,t12,t13,t14,t15,t16,t17,t18,t19,t20};
-
         // Generators
     int start = 121; // MIN IS 1
     int end = 140; // MAX IS 395
