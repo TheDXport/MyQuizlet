@@ -1,0 +1,26 @@
+1 Marbury v. Madison (1803) - Judicial review; to declare whether a law is constitutional or not
+2 McCulloch v. Maryland (1810) -  States cannot tax the federal government; "the power to tax is the power to destroy"
+3 Dartmouth College v. Woodward (1819) - New Hampshire attempted to take over Dartmouth by revising its colonial charter. Court ruled that the charter was protected under the contract clause of the Constitution, upholds the security of contracts
+4 Gibbons v. Ogden (1824) - Clarified the commerce clause and affirmed Congressional power over interstate commerce
+5 Cherokee Nation v. Georgia (1831) - Established a trust relationship with the tribes directly under federal authority
+6 Worcester v. Georgia (1832) - Established tribal autonomy within their boundaries, declared that tribes were distinct political communities, meaning that they had territorial boundaries within which their authority is exclusive
+7 Scott v. Sanford (1857) - Congress had no power to prohibit slavery in a territory, resulting in the voiding of the Missouri Compromise of 1820
+8 Civil Rights Cases of 1883 - Legalized segregation with regard to private property
+9 Wabash, St. Louis, and Pacific Railway Co. v. Illinois (1886) - Declared state-passed Granger laws that regulated interstate commerce were unconstitutional
+10 U.S. v. E.C. Knight Co. (1895) - Court determined the authority of the federal government to act against monopolies
+11 Plessy v. Ferguson (1896) - Legalized segregation, "separate, but equal"
+12 Northern Securities CO. v. U.S. (1904) Re-established the authority of the federal government to fight monopolies under the Sherman Anti-Trust Act
+13 Lochner v. New York (1905) - Declared a New York act unconstitutional which limited the working hours of bakers due to a denial of the 14th Amendment rights
+14 Muller v. Oregon (1908) - Recognized a 10-hour work day for women laundry workers on the grounds of health and community concerns
+15 Schenck v. U.S. (1919) - Upholding the Espionage Act of 1917, it established that during wartime, free speech could be limited if its use presented a "clear and present danger"
+16 Schechter v. U.S. (1936) - declared the National Industrial Recovery Act (NIRA) unconstitutional on three grounds: 1. the act delegated legislature power to the executive, 2. that there was a lack of constitutional authority for such legislation, 3. and that it sought to regulate businesses that were wholly intrastate in character
+17 Korematsu v. U.S. (1941) - Upheld the right for the government to hold Japanese-Americans in detention camps during World War II
+18 Brown v. Board of Education of Topeka, Kansas (1954) - Unanimous decision to declare that "separate, but equal" was unconstitutional
+19 Gideon v. Wainwright (1963) - That all suspected criminals are to be given a lawyer in the court regardless of their ability to pay
+20 Escobedo v. Illinois (1964) - Ruled that a defendant must be allowed access to a lawyer before questioning by police
+21 Miranda v. Arizona (1966) - Individuals in custody interrogation must be advised of their constitutional rights to an attorney and the right to remain silent
+22 Roe v. Wade (1973) - Legalized abortion and that state laws could not restrict it during the first three months of pregnancy
+23 U.S. v. Richard Nixon (1974) - Rejected Nixon's claim of having an "executive privilege" and that no one is above the law.
+24 Bakke v. Regents of the University of California (1978) - Upheld that race could be considered as a factor in college admissions, but that strict racial quotas were unconstitutional.
+25 Boy Scouts of America v. Dale (2000) - Gave organizations the right to disassociate individuals that were inconsistent with their own beliefs, the Court held that the organization had the right to exclude Dale from membership based on its belief that homosexuality was inconsistent with its values and principles.
+26 Bush v. Gore (2000) - Ruled that manual recounts of presidential ballots in the Nov. 2000 election could not proceed since inconsistent evaluation standards in different counties violated the equal protection clause; resulting in Bush winning the election
